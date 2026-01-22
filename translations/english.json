@@ -7,20 +7,18 @@
 		"CHERT_START_2": "Yes, it is. What are you doing here exactly?",
 		"CHERT_START_3": "Let's celebrate Christmas! I'm helping the travelers get home for the celebration.",
 		"CHERT_START_4": "Star charts, you know. This is a great place to spot astronomical events, such as supernovae.",
-		"CHERT_START_5": "I've actually seen a couple today. It's  strange, since they're very rare.",
+		"CHERT_START_5": "I've actually seen a couple today. It's strange, since they're very rare.",
 		"CHERT_START_6": "I see.",
 		"CHERT_START_7": "So, what can I help you with?",
 		"CHERT_START_8": "Let's celebrate Christmas! I'm helping the travelers get home for the celebration.",
 		"CHERT_START_9": "Nothing. Have a nice day!",
 		"CHERT_START_10": "What do you mean? You want me to just leave here and interrupt such important work? <![CDATA[<i>]]>Absolutely not.<![CDATA[</i>]]>",
-
 		"CHERT_START_10.1": "By the way, is my friend Gabbro there already?",
 		"CHERT_START_10.2": "Nope, not yet.",
 		"CHERT_START_10.3": "Yep! You should join us too.",
 		"CHERT_START_10.4": "If Gabbro is not there, me neither then. Ask them first, then I'll think about it.",
-		"CHERT_START_10.5": "Alright. Go on, continue telling me why should I leave this place and abandon my entire work.",
+		"CHERT_START_10.5": "Alright. Go on, continue telling me why I should leave this place and abandon my entire work.",
 		"CHERT_START_10.6": "So, is Gabbro there already?",
-
 		"CHERT_START_11": "Oh, the thing is, we're in a time loop, and the sun is about to go supernova. I've seen it happen many times now. Also, I've already explored everything, so you might as well go back home.",
 		"CHERT_START_12": "Ha-ha, you're very funny! Go on, tell me everything you know then.",
 		"CHERT_START_13": "The Eye of the Universe was found by species from a nearby solar system, and their cloaked ship is still here.",
@@ -41,7 +39,7 @@
 		"CHERT_START_29": "Alright, will that be enough?",
 		"CHERT_START_30": "No, since you're saying you are Mr. \"I know everything\", I'm asking you to bring something new to the table.",
 		"CHERT_START_31": "I mean, any unknown Nomai technology, and don't you dare take anything from the museum!",
-		"CHERT_START_32": "What else did you say? The other species' ship is still here? Cool, bring me a piece of their tech, and we're good.",
+		"CHERT_START_32": "What else did you say? Is the other species' ship still here? Cool, bring me a piece of their tech, and we're good.",
 		"CHERT_START_33": "So, the deal is the secret phrase, some unknown Nomai tech, and something significant from another civilization's tech. Deal?",
 		"CHERT_START_34": "Deal. You better prepare to fly home!",
 		"CHERT_START_35": "Chert, I know that only you know who the inventor of Jumbo Marshmallows is.",
@@ -66,10 +64,8 @@
 		// "CHERT_START_55": "Anyway...",
 		"CHERT_START_56": "What an interesting artifact! It seems like the main concept of their technology is some sort of light or flame, am I right? Good job!",
 		"CHERT_START_57": "Yes. They were all about flames and lights.",
-
-		"CHERT_START_57.1": "To be honest, this is mindblowing.. I was not expecting that...",
-
-		"CHERT_START_58": "Okay... you won. My world-view is <![CDATA[<i>]]>shattered<![CDATA[</i>]]> and I don't feel like I'm doing anything important here, so... let's go celebrate Christmas!",
+		"CHERT_START_57.1": "To be honest, this is mind-blowing.. I was not expecting that...",
+		"CHERT_START_58": "Okay... you won. My worldview is <![CDATA[<i>]]>shattered<![CDATA[</i>]]> and I don't feel like I'm doing anything important here, so... let's go celebrate Christmas!",
 		"CHERT_START_59": "Yay! Let's go, my ship is nearby.",
 		"CHERT_START_60": "Wait a sec. I need to bring my ship closer.",
 		"CHERT_START_61": "Oh no, my ship is destroyed. Sorry.",
@@ -78,14 +74,12 @@
 		"CHERT_START_64": "Actually... yeah. That's what I was thinking too. Nice guess!",
 		"CHERT_START_65": "So, <![CDATA[<i>]]>are you serious about all this?<![CDATA[</i>]]>",
 		"CHERT_START_66": "Yes! Let's get down to business.",
-
 		"CHERT_START_67": "Could you remind me what's left?",
 		"CHERT_START_68": "Sure, let's see what's left...",
 		"CHERT_START_69": "You told me the phrase and now you need to bring some unknown Nomai tech and strangers tech, as you said.",
-		"CHERT_START_70": "Thanks for reminding, Chert. I'll be right back.",
-		"CHERT_START_71": "You told me the phrase and showed the Nomai warp core. Now you just need to bring some piece of strangers tech.",
-		"CHERT_START_72": "You told me the phrase and showed the strangers artifact. Now I'm waiting you to bring some unknown Nomai tech.",
-
+		"CHERT_START_70": "Thanks for reminding me, Chert. I'll be right back.",
+		"CHERT_START_71": "You told me the phrase and showed the Nomai warp core. Now you just need to bring some piece of strangers' tech.",
+		"CHERT_START_72": "You told me the phrase and showed the stranger's artifact. Now I'm waiting for you to bring some unknown Nomai tech.",
 
 		// Chert tree
 		"CHERT_TREE_1": "Hey! I wanted to ask.. how do you cope with all your knowledge?",
@@ -109,12 +103,12 @@
 		"ESKER_SHIP_9": "Yes! What, you wanted me to leave it on the Attlerock?",
 		"ESKER_SHIP_10": "No way.",
 		"ESKER_SHIP_4": "Let's go! Merry Christmas!",
-		"ESKER_SHIP_5": "So, the flight is over?",
+		"ESKER_SHIP_5": "So, is the flight over?",
 		"ESKER_SHIP_7": "Yes, we're here! Let's go celebrate!",
 		"ESKER_SHIP_6": "No, but I'll tell you when we're about to land.",
 
 		// Esker start
-		"ESKER_START_1": "Hey-hey! So you're here to bring me home, right?",
+		"ESKER_START_1": "Hey-hey! So, you're here to bring me home, right?",
 		"ESKER_START_2": "Wait, what? How did you know?",
 		// I change this line since Esker isn't in the loop yet so maybe Slate didn't say it to the player this loop
 		"ESKER_START_3": "Well... I get lonely up here, so I listen in on the Village with my signalscope a lot... I overheard Slate talking about it.",
@@ -129,7 +123,7 @@
 		"ESKER_START_12": "Gotcha! I'll wait then.",
 
 		// Esker tree
-		"ESKER_TREE_1": "Merry Christmas! Gotta say you're good pilot.",
+		"ESKER_TREE_1": "Merry Christmas! Gotta say you're a good pilot.",
 		"ESKER_TREE_2": "Thanks! I know I'm pretty good at it.",
 		"ESKER_TREE_3": "Do you know anything about Jumbo?",
 		"ESKER_TREE_4": "Yes, you're also very modest.",
@@ -154,8 +148,8 @@
 		"FELDSPAR_START_3": "Sure! Let's go.",
 		"FELDSPAR_START_4": "Don't go anywhere, I'll bring the ship closer.",
 		"FELDSPAR_START_5": "I'm so sorry... but the ship is not functioning... we're stuck here.",
-		"FELDSPAR_START_6": "It was relaxing there, but eventually I was up for more adventuring. I saw a little anglerfish and thought it could help me fly away from Dark Bramble, so I followed it and... well... then I ended up here...",
-		"FELDSPAR_START_7": "Pure luck! I was so scared that I wasn't able to move, but it seems like I was so still and quiet that the anglerfish could not see me. Ha-ha! Another mystery solved!",
+		"FELDSPAR_START_6": "It was relaxing there, but eventually I was up for more adventure. I saw a little anglerfish and thought it could help me fly away from Dark Bramble, so I followed it and... well... then I ended up here...",
+		"FELDSPAR_START_7": "Pure luck! I was so scared that I wasn't able to move, but it seemed like I was so still and quiet that the anglerfish could not see me. Ha-ha! Another mystery solved!",
 		"FELDSPAR_START_8": "Wow, yeah that really is pure luck!",
 		"FELDSPAR_START_9": "So... can you get us out of here?",
 		"FELDSPAR_START_10": "Don't go anywhere? Ha-ha.",
@@ -178,24 +172,23 @@
 		"GABBRO_START_1": "Hey, it's you! Congrats on your first launch.",
 		"GABBRO_START_2": "I don't know why, but I keep dying repeatedly. That sounds weird, huh?",
 		"GABBRO_START_3": "Yes, we already had this conversation.",
-		"GABBRO_START_4": "Yeah, me too. We're in a time loop. Only you and me are aware of it.",
+		"GABBRO_START_4": "Yeah, me too. We're in a time loop. Only you and I are aware of it.",
 		"GABBRO_START_5": "Oh, yes, I remember. So... something went wrong, right?",
 		"GABBRO_START_6": "Yes. Let's try again.",
-		"GABBRO_START_7": "Ummm... makes sense. Hornfels didn't believe me when I told them I keep dying.",
+		"GABBRO_START_7": "Ummm... makes sense. Hornfels didn't believe me when I told them I kept dying.",
 		"GABBRO_START_8": "You seem comfortable here. By the way, we're celebrating Christmas in the Village. Do you want to join?",
 		"GABBRO_START_9": "M-m-m... I don't know. I feel bored here, to be honest.",
 		"GABBRO_START_10": "All this depressing rain, you know?",
-		"GABBRO_START_11": "But on the other hand... I'm also too bored to fly anywhere or get in your ship.",
-		"GABBRO_START_12": "Here's an idea, just blow up your ship so we can both die and initiate a new loop! The excitement of it will snap me out of this funk, and I'll be back in my ship when it starts and I can fly home to Timber Hearth.",
+		"GABBRO_START_11": "But on the other hand... I'm also too bored to fly anywhere or get on your ship.",
+		"GABBRO_START_12": "Here's an idea, just blow up your ship so we can both die and initiate a new loop! The excitement of it will snap me out of this funk, I'll be back in my ship when it starts, and I can fly home to Timber Hearth.",
 		"GABBRO_START_13": "Make a big explosion with the ship?! Are you crazy?! Alright, let's do it!",
 		"GABBRO_START_14": "Ha-ha, yep! <![CDATA[<i>*whistling*</i>]]>",
 		"GABBRO_START_14.1": "By the way, remember the new exhibit at the observatory? There is <![CDATA[<i>]]>a secret<![CDATA[</i>]]> associated with it. But I will tell about it only on Timber Hearth.",
-		"GABBRO_START_15": "So... I'm waiting for ship explosion! Hurry up and kill me already so we can start a new loop... and tell you <![CDATA[<i>]]>the secret!<![CDATA[</i>]]>. And will teach you how to meditate!",
+		"GABBRO_START_15": "So... I'm waiting for the ship explosion! Hurry up and kill me already so we can start a new loop... and tell you <![CDATA[<i>]]>the secret!<![CDATA[</i>]]>. And will teach you how to meditate!",
 		"GABBRO_START_16": "Um. The thing is... my ship is already destroyed.",
 		"GABBRO_START_17": "Sure. I'm working on it.",
 		"GABBRO_START_18": "No luck then. Try not to screw this up next loop!",
 		"GABBRO_START_19": "Got it! I'll be here.",
-
 
 		// Gabbro tree
 		"GABBRO_TREE_1": "Hey! That was a really huge explosion! Are you alright?",
@@ -211,7 +204,7 @@
 		"GABBRO_TREE_11": "Don't be a snob, it was fun at least!",
 		"GABBRO_TREE_12": "What about that <![CDATA[<i>]]>secret?<![CDATA[</i>]]>",
 		"GABBRO_TREE_13": "Yes! Almost forgot about it. The Deep Space Satellite once detected a strange object covering our sun, but only from a certain angle.",
-		"GABBRO_TREE_14": "One day I flew there without telling anyone, and I found this bizarre ship! It didn't look Nomain in origin. Honestly, it terrified me, so I left immediately and told no-one about it.",
+		"GABBRO_TREE_14": "One day I flew there without telling anyone, and I found this bizarre ship! It didn't look Nomain in origin. Honestly, it terrified me, so I left immediately and told no one about it.",
 		"GABBRO_TREE_15": "But hey, hard to fear anything when in a time loop, right? If you want, I can send you the coordinates to it, if you want to visit it someday",
 		"GABBRO_TREE_16": "Yes, please share!",
 		"GABBRO_TREE_17": "No, thanks, I'm good.",
@@ -234,7 +227,7 @@
 		"HAL_START_9": "True. Good luck with it.",
 		"HAL_START_10": "Sure! As you can see, I'm already practicing. So, this must be for testing the translator, right?",
 		"HAL_START_11": "Of course. Please write: <![CDATA[<i>]]>\"Dear Solanum, I'm inviting you to the Village to celebrate Christmas!\"<![CDATA[</i>]]>",
-		"HAL_START_12": "That's... uh... <![CDATA[<i>]]>oddly specific.<![CDATA[</i>]]> Are we celebrating something? And it's addressed to who? Ah, actually nevermind.",
+		"HAL_START_12": "That's... uh... <![CDATA[<i>]]>oddly specific.<![CDATA[</i>]]> Are we celebrating something? And it's addressed to whom? Ah, actually nevermind.",
 		"HAL_START_13": "Let's see if I can do this...",
 		"HAL_START_14": "Good luck in space, friend!",
 		"HAL_START_15": "Thanks! I gotta go.",
@@ -264,14 +257,14 @@
 		"HORNFELS_FINAL_1": "What a beautiful tree! And everyone is here!",
 		"HORNFELS_FINAL_2": "Thank you for such a surprise, thank you a lot.",
 		"HORNFELS_FINAL_3": "I'm glad all our friends are here.",
-		"HORNFELS_FINAL_4": "So what's next?",
+		"HORNFELS_FINAL_4": "So, what's next?",
 		"HORNFELS_FINAL_5": "Yes, I don't remember the last time we had such a gathering. All together.",
-		"HORNFELS_FINAL_6": "So what's next?",
+		"HORNFELS_FINAL_6": "So, what's next?",
 		"HORNFELS_FINAL_7": "The lights are very nice, but I think we are missing a final detail to top it off.",
-		"HORNFELS_FINAL_8": "We need <![CDATA[<i>]]>something bright and shiny<![CDATA[</i>]]> to put right on the top of the tree!",
+		"HORNFELS_FINAL_8": "We need <![CDATA[<i>]]>something bright and shiny<![CDATA[</i>]]> to put right on top of the tree!",
 		"HORNFELS_FINAL_9": "Can you bring something like that from the observatory?",
 		"HORNFELS_FINAL_10": "Sure, I'll go check now.",
-		"HORNFELS_FINAL_11": "We need something bright and shiny to put in on the top of the tree. See if you can find something like that up in the Observatory.",
+		"HORNFELS_FINAL_11": "We need something bright and shiny to put on top of the tree. See if you can find something like that up in the Observatory.",
 		"HORNFELS_FINAL_13": "Thanks.",
 		"HORNFELS_FINAL_14": "I'll be here.",
 		"HORNFELS_FINAL_15": "There should be something in the Observatory.",
@@ -290,7 +283,7 @@
 		"MARL_START_1": "Hey! You see that tree? <![CDATA[<i>]]>That's my work.<![CDATA[</i>]]> Impressive, eh?",
 		"MARL_START_2": "Yes, the tree is very impressive.",
 		"MARL_START_3": "That's what I'm talking about! Good luck in space!",
-		"MARL_START_4": "Good luck on your flight. Your mission is very important.",
+		"MARL_START_4": "Good luck with your flight. Your mission is very important.",
 		"MARL_START_5": "Marl, Tektite is asking for your help. There's a bramble seed on Timber Hearth and it's gro...",
 		"MARL_START_6": "<![CDATA[<i>]]>GROWING FAST?!<![CDATA[</i>]]>",
 		"MARL_START_7": "We need to cut down this bush as soon as possible! I'm going to Tektite! Let's meet there!",
@@ -316,7 +309,7 @@
 		"NPC_PLAYER_START_5": "You mean to <![CDATA[<i>]]>invite yourself?<![CDATA[</i>]]>",
 		"NPC_PLAYER_START_6": "To the Christmas party, huh?",
 		"NPC_PLAYER_START_7": "I have the same memories as you, except for this loop, you know. We're literally the same person.",
-		"NPC_PLAYER_START_8": "I just had an idea. It's crazy but .. <![CDATA[<i>]]>why not?<![CDATA[</i>]]>",
+		"NPC_PLAYER_START_8": "I just had an idea. It's crazy but.. <![CDATA[<i>]]>why not?<![CDATA[</i>]]>",
 		"NPC_PLAYER_START_9": "...Okay.. I guess.. are we going home?",
 		"NPC_PLAYER_START_10": "Let's get into the ship then.",
 		"NPC_PLAYER_START_11": "Just don't go anywhere, I have to bring our ship closer.",
@@ -336,7 +329,7 @@
 		"NPC_PLAYER_TREE_4": "Thanks.",
 		"NPC_PLAYER_TREE_5": "Aren't you worried about all this <![CDATA[<i>]]>time travel stuff?<![CDATA[</i>]]>",
 		"NPC_PLAYER_TREE_6": "What do you mean?",
-		"NPC_PLAYER_TREE_7": "Well, for one there's the thing about everyone seeing us <![CDATA[<i>]]>both at the same time...<![CDATA[</i>]]> Bit of a time paradox or something...",
+		"NPC_PLAYER_TREE_7": "Well, for one, there's the thing about everyone seeing us <![CDATA[<i>]]>both at the same time...<![CDATA[</i>]]> Bit of a time paradox or something...",
 		"NPC_PLAYER_TREE_8": "I'm sure it'll be fine. What's the worst that could happen? It's not like anything is going to explode!",
 		"NPC_PLAYER_TREE_9": "Fair, that's exactly what I would have said too.",
 		"NPC_PLAYER_TREE_10": "You could also say one of us is just someone in a very good costume. No time travel there!",
@@ -348,19 +341,19 @@
 		"PORPHY_TREE_3": "Hey! I'm good.",
 		"PORPHY_TREE_4": "What's up with this barrel in the center of the Village?",
 		"PORPHY_TREE_5": "Are you happy about all the snow?",
-		"PORPHY_TREE_6": "Well, personally I prefered the previous climate.",
+		"PORPHY_TREE_6": "Well, personally I preferred the previous climate.",
 		"PORPHY_TREE_7": "But honestly this temperature is much better for storing all my barrels of sap-wine!",
 		"PORPHY_TREE_8": "Okay, got it. I gotta go.",
 		"PORPHY_TREE_9": "Glad to hear it! You know how important our space program is. We all believe in you! Hornfels especially.",
 		"PORPHY_TREE_10": "Sure! By the way, what's up with this barrel in the center of the Village?",
 		"PORPHY_TREE_11": "Oh, yes, that's the biggest barrel I have in my collection. You like it?",
-		"PORPHY_TREE_12": "The geyser in the center of the Village has been inactive recently so we had to block off the hole for safety reasons. Maybe the wine in the barrel will end up having a different taste now?",
+		"PORPHY_TREE_12": "The geyser in the center of the Village has been inactive recently, so we had to block off the hole for safety reasons. Maybe the wine in the barrel will end up having a different taste now?",
 		"PORPHY_TREE_13": "Anyway, I feel like with this tree and all the lights it was totally worth it.",
 		"PORPHY_TREE_15": "Bye!",
 		"PORPHY_TREE_16": "And good luck!",
 		"PORPHY_TREE_17": "Again.",
 		"PORPHY_TREE_18": "It's you again!",
-		"PORPHY_TREE_19": "What can help you with?",
+		"PORPHY_TREE_19": "What can I help you with?",
 		"PORPHY_TREE_20": "Nothing actually.",
 		"PORPHY_TREE_21": "Are you happy about all the snow?",
 		"PORPHY_TREE_22": "Remind me, what's up with this barrel in the center of the Village?",
@@ -381,9 +374,9 @@
 		"RIEBECK_START_2": "Just... how? I mean... <![CDATA[<i>]]>how did you end up here?<![CDATA[</i>]]>",
 		"RIEBECK_START_3": "Yep, my ship should be nearby. Let's get in.",
 		"RIEBECK_START_4": "Hold on, I'll bring my ship a little closer.",
-		"RIEBECK_START_5": "I'm so sorry... but my ship is broken... Unfortunately I can't help.",
+		"RIEBECK_START_5": "I'm so sorry... but my ship is broken... Unfortunately, I can't help.",
 		"RIEBECK_START_6": "Well, I'd like to see how you'd react if a piece of the planet broke off and fell right behind you!",
-		"RIEBECK_START_7": "I had barely any time to react, so I took all the gravity crystals I had and I found a safe new place. Logically, from this side, I won't ever fall DOWN.",
+		"RIEBECK_START_7": "I had barely any time to react, so I took all the gravity crystals I had, and I found a safe new place. Logically, from this side, I won't ever fall DOWN.",
 		"RIEBECK_START_8": "You get it? Ha-ha!",
 		"RIEBECK_START_9": "I get you, Riebeck. Glad to see you're alive and... safe. Kind of.",
 		"RIEBECK_START_10": "So... can you help me then?",
@@ -411,7 +404,7 @@
 		"SLATE_START_7": "We had to block off some inactive geysers to make space for a beautiful tree and the rest of our celebration plan. We even found some Nomai wires lying around to light it up with!",
 		"SLATE_START_8": "Celebration plan?",
 		"SLATE_START_9": "Hopefully not all the geysers on Timber Hearth are inactive, are they?",
-		"SLATE_START_10": "Oh don't worry, most of them are still active. It's snowing a bit. Marl chopped down this beautiful tree, and I made the lights, but...",
+		"SLATE_START_10": "Oh, don't worry, most of them are still active. It's snowing a bit. Marl chopped down this beautiful tree, and I made the lights, but...",
 		"SLATE_START_11": "...sometimes the blue ones shine too bright, like they're being overloaded with some sort of energy. Weird.",
 		"SLATE_START_12": "Anyway, it seems like everyone is happy with winter! You should go talk to the villagers before liftoff.",
 		"SLATE_START_13": "Sure. I can't wait to begin my space adventure!",
@@ -428,10 +421,10 @@
 		"SLATE_START_25": "Yes! It's too quiet around here. We need their music, or else no Christmas magic will ever happen. So...",
 		"SLATE_START_26": "Do you have any other questions?",
 		"SLATE_START_27": "Is that a Little Scout?",
-		"SLATE_START_28": "Nope, everyhing is clear to me.",
+		"SLATE_START_28": "Nope, everything is clear to me.",
 		"SLATE_START_31": "Good. I'll be here if you need me.",
 		"SLATE_START_32": "Sure. I'll be here.",
-		"SLATE_START_33": "Yeah, I've been upgrading our Little Scouts. If you try yours out, you'll notice it has a little Nomai gravity crystal on it! You can launch it at walls and literally stand horizontally. It's neat, you should give it a try.",
+		"SLATE_START_33": "Yeah, I've been upgrading our Little Scouts. If you try yours out, you'll notice it has a little Nomai gravity crystal on it! You can launch it on the walls and literally stand horizontally. It's neat, you should give it a try.",
 		"SLATE_START_34": "Sounds good!",
 		"SLATE_START_35": "Just be careful using it in places where you're not supposed to be standing. That just makes it even more dangerous to fall, so keep that in mind.",
 		"SLATE_START_35.1": "I also strongly recommend you don't launch it inside your ship. There's already a gravity crystal in there, I really don't think it's safe to mix artificial gravity fields like that.",
@@ -441,10 +434,10 @@
 		"SLATE_START_39": "Actually, I need more time to invite someone else.",
 		"SLATE_START_40": "Yes, let's get started.",
 		"SLATE_START_41": "<![CDATA[<i>]]>Just kidding!<![CDATA[</i>]]> All the travelers are here already. Who else could you possibly invite?",
-		"SLATE_START_42": "Actually, nevermind. Just tell me whenever we ready to start.",
+		"SLATE_START_42": "Actually, nevermind. Just tell me whenever we are ready to start.",
 		"SLATE_START_43": "Yes, I'll let you know.",
 		"SLATE_START_44": "Let's start.",
-		"SLATE_START_45": "So, are you we ready to tell Hornfels and Hal? Are you done with all your other \"invites?\"",
+		"SLATE_START_45": "So, are we ready to tell Hornfels and Hal? Are you done with all your other \"invites?\"",
 		"SLATE_START_46": "No, not yet. I'll let you know.",
 		"SLATE_START_47": "Yes, let's start.",
 		"SLATE_START_48": "Okay, I'll go get Hornfels and Hal.",
@@ -454,41 +447,38 @@
 
 		// Gossan (cave)
 		"GOSSAN_START_1": "Good luck in space! Feeling nervous about the launch?",
-		"GOSSAN_START_2": "Kind of. Slate gave me an importaint misson to bring all the travelers back home.",
-		"GOSSAN_START_3": "Yep. Just wanted to say good bye.",
-		"GOSSAN_START_4": "Oh really?",
+		"GOSSAN_START_2": "Kind of. Slate gave me an important mission to bring all the travelers back home.",
+		"GOSSAN_START_3": "Yep. Just wanted to say goodbye.",
+		"GOSSAN_START_4": "Oh, really?",
 		"GOSSAN_START_5": "But why?",
 		"GOSSAN_START_6": "We are going to celebrate Christmas.",
 		"GOSSAN_START_7": "Since everyone is going to be there, can you go down into the Zero-G Cave and let Tuff know? I would be very grateful.",
 		"GOSSAN_START_8": "Sure, I'll head down there in a few minutes.",
-		"GOSSAN_START_9": "So, did you had a minute to visit Tuff?",
+		"GOSSAN_START_9": "So, did you have a minute to visit Tuff?",
 		"GOSSAN_START_10": "Sorry, not yet. On my way.",
 		"GOSSAN_START_11": "Sure, I'll wait here.",
 		"GOSSAN_START_12": "Oh, you are still here? Is everything alright?",
-		"GOSSAN_START_13": "Yes. Slate gave me an importaint misson to bring all the travelers back home for Christmas.",
-		"GOSSAN_START_14": "Good bye then!",
+		"GOSSAN_START_13": "Yes. Slate gave me an important mission to bring all the travelers back home for Christmas.",
+		"GOSSAN_START_14": "Goodbye then!",
 		"GOSSAN_START_15": "Just be careful out there.",
 
 		// Gossan tree
-
 		"GOSSAN_TREE_1": "Hey! Tuff is very sorry about that. We almost locked you down in that cave!",
 		"GOSSAN_TREE_2": "Nah, nevermind. Good that you came back for me.",
-		"GOSSAN_TREE_3": "For you? Oh, to be honest I came back for my helmet.",
+		"GOSSAN_TREE_3": "For you? Oh, to be honest, I came back for my helmet.",
 		"GOSSAN_TREE_4": "...",
 		"GOSSAN_TREE_5": "S-sorry...",
-		"GOSSAN_TREE_6": "It was little awkward..",
+		"GOSSAN_TREE_6": "It was a little awkward..",
 		"GOSSAN_TREE_7": "",
 		"GOSSAN_TREE_8": "",
 		"GOSSAN_TREE_9": "",
 		"GOSSAN_TREE_10": "",
 
-
 		// Tektite base
-
 		"TEKTITE_START_1": "Heyo, hatchling! Thought you would be in space today - why are you still here?",
-		"TEKTITE_START_2": "You're right, but I've also been given an importaint mission to gather up everyone for Christmas. Do you want to join us and celebrate in the Village?",
+		"TEKTITE_START_2": "You're right, but I've also been given an important mission to gather everyone for Christmas. Do you want to join us and celebrate in the Village?",
 		"TEKTITE_START_3": "I just wanted to say goodbye first.",
-		"TEKTITE_START_4": "Uh, sure, but do you see this thing? I don't like it's roots.",
+		"TEKTITE_START_4": "Uh, sure, but do you see this thing? I don't like its roots.",
 		"TEKTITE_START_5": "It's growing too fast! I need Marl to come here and chop this thing up before it can damage the planet. We don't want to end up like whatever planet Dark Bramble grew from!",
 		"TEKTITE_START_6": "If you want, I can go ask Marl to come help you with that.",
 		"TEKTITE_START_7": "That would be nice. Thank you. We can go celebrate Christmas after this thing has been destroyed.",
@@ -498,11 +488,10 @@
 		"TEKTITE_START_11": "<![CDATA[<i>]]>Hurry up, hatchling!<![CDATA[</i>]]>",
 		"TEKTITE_START_12": "Oh, you are still here? Are you sure everything is alright?",
 		"TEKTITE_START_13": "Be careful there.",
-
 		"TEKTITE_START_14": "Thank you! Marl is here now.",
-		"TEKTITE_START_15": "I think they'll be able destroy it. We just need to give them some more time.",
+		"TEKTITE_START_15": "I think they'll be able to destroy it. We just need to give them some more time.",
 		"TEKTITE_START_16": "Alright, let's wait.",
-		"TEKTITE_START_17": "Yeah, thank you for help. Look, I found this <![CDATA[<color=lightblue>tiny seed</color>]]> here.",
+		"TEKTITE_START_17": "Yeah, thank you for the help. Look, I found this <![CDATA[<color=lightblue>tiny seed</color>]]> here.",
 		"TEKTITE_START_18": "Seems like it's not growing at all, maybe it's dormant. You should take it as a trophy!",
 		"TEKTITE_START_19": "Are you sure it's safe?",
 		"TEKTITE_START_20": "I'll put it in your ship, you can have it as a toy or a little decoration or something.",
@@ -510,18 +499,17 @@
 		"TEKTITE_START_22": "Finally, we did it! Now we can go celebrate.",
 		"TEKTITE_START_23": "Marl already went back.",
 		"TEKTITE_START_24": "Let's go then!",
-		"TEKTITE_START_25": "Thank you for your help in the crater. Who knows how fast that seed could have grown if we hadn't dealth with it.",
+		"TEKTITE_START_25": "Thank you for your help in the crater. Who knows how fast that seed could have grown if we hadn't dealt with it.",
 		"TEKTITE_START_26": "Sure! By the way, I like that toy you gave to me.",
 		"TEKTITE_START_27": "Sure! By the way, I hate that toy you gave to me.",
 		"TEKTITE_START_28": "I knew it. It is so cute and tiny! But still, be careful with it. Make sure it stays dormant",
 		"TEKTITE_START_29": "Alright.",
 		"TEKTITE_START_30": "Wow, why do you have to be so rude? Give it a chance. Anyway, you can remove it any time.",
 
-
 		// Elevator radio
 		"RADIO_START_1": "<![CDATA[<i>]]>Gossan:<![CDATA[</i>]]> Hey Tuff! How's it going?",
 		"RADIO_START_2": "<![CDATA[<i>]]>Tuff:<![CDATA[</i>]]> Uh, I'm tired. I'm starting to hate being down here in the cave.",
-		"RADIO_START_3": "<![CDATA[<i>]]>Tuff:<![CDATA[</i>]]> What's going on? Why there's snow everywhere?",
+		"RADIO_START_3": "<![CDATA[<i>]]>Tuff:<![CDATA[</i>]]> What's going on? Why is there snow everywhere?",
 		"RADIO_START_4": "Excuse me! Hello!",
 		"RADIO_START_5": "<![CDATA[<i>]]>Gossan:<![CDATA[</i>]]> You haven't seen the snow yet? Oh, right, there's no snow underground... Duh.",
 		"RADIO_START_6": "<![CDATA[<i>]]>Tuff:<![CDATA[</i>]]> Of course not. Now let's get down to the center of the Village and open up a bottle of the Good Stuff?",
@@ -532,16 +520,15 @@
 		"RADIO_START_11": "I'm stuck here!!",
 		"RADIO_START_12": "Anyone...",
 		"RADIO_START_13": "<![CDATA[<size=20>]]> <![CDATA[<i>]]>Tuff:<![CDATA[</i>]]> Hold on, I think I heard something...<![CDATA[</size>]]>",
-		"RADIO_START_14": "HELP!!! I'm here in radio!",
+		"RADIO_START_14": "HELP!!! I'm here on the radio!",
 		"RADIO_START_15": "<![CDATA[<i>]]>Gossan:<![CDATA[</i>]]> Hatchling? What are you doing there?!",
 		"RADIO_START_16": "I think Tuff forgot about me. Can you call the elevator down here?",
-		"RADIO_START_17": "<![CDATA[<i>]]>Gossan:<![CDATA[</i>]]> Sure, I'm calling the elevator now. We will will be at the center of the Village.",
+		"RADIO_START_17": "<![CDATA[<i>]]>Gossan:<![CDATA[</i>]]> Sure, I'm calling the elevator now. We will be at the center of the Village.",
 		"RADIO_START_18": "<![CDATA[<i>]]>Gossan out.<![CDATA[</i>]]>",
 		"RADIO_START_19": "Thank you, Gossan!",
 
 		// Galena
-
-		"GALENA_START_1": "So you are going to bring all the travelers back home?",
+		"GALENA_START_1": "So, you are going to bring all the travelers back home?",
 		"GALENA_START_2": "Yes, they will all be here soon.",
 		"GALENA_START_3": "I'm sorry that I tried to destroy your snowian.",
 		"GALENA_START_4": "What is that snowian made of?",
@@ -553,63 +540,53 @@
 		"GALENA_START_10": "Mica will never break it, but it is still funny to see their attempts.",
 
 		// Moraine
-
 		"MORAINE_START_1": "<![CDATA[<i>]]>Hey! Watch out!<![CDATA[</i>]]>",
 		"MORAINE_START_2": "Hey! You're not listening to the travelers anymore?",
-		"MORAINE_START_3": "Signal all the same! Always!",
-		"MORAINE_START_4": "Oh yeah, I was listening to Riebeck and their signal was gone for a few minutes! I don't know what happened to them.",
+		"MORAINE_START_3": "Signals are all the same! Always!",
+		"MORAINE_START_4": "Oh yeah, I was listening to Riebeck, and their signal was gone for a few minutes! I don't know what happened to them.",
 		"MORAINE_START_5": "Alright, I'll visit them to see what's up.",
 		"MORAINE_START_6": "<![CDATA[<i>]]>Watch out!<![CDATA[</i>]]>",
 
 		// Spinel
-
 		"SPINEL_START_1": "Fishing song, fishing song<![CDATA[<Pause=1>]]>.<![CDATA[<Pause=1>]]>.<![CDATA[<Pause=1>]]> when it's ice it feels so wrong.",
 		"SPINEL_START_2": "How is it going, Spinel?",
 		"SPINEL_START_3": "How is it going?<![CDATA[<Pause=2>]]> Are you kidding me?<![CDATA[<Pause=2>]]> I can't catch any fish like this! It's horrible!",
-		"SPINEL_START_4": "Why don't you stay closer to waterfall then, where there's actually running water?",
+		"SPINEL_START_4": "Why don't you stay closer to the waterfall then, where there's actually running water?",
 		"SPINEL_START_5": "Wait, that's actually a good idea! Thank you!",
-		"SPINEL_START_6": "You're welcome. Do you want to come with us and celebrate Christmas?",
+		"SPINEL_START_6": "You're welcome. Do you want to come with us to celebrate Christmas?",
 		"SPINEL_START_7": "Oh, no, thanks, I'm good.",
 		"SPINEL_START_8": "Alright, I'll try to get closer to that waterfall.",
 		"SPINEL_START_9": "I bet everything will be fine on your first flight! Have fun in space!",
 		"SPINEL_START_10": "Wow! <![CDATA[<i>]]>Much better<![CDATA[</i>]]> now!",
 
-
-		"SPINEL_ONE_LOOP_RESPONSE": "Yes, I know that you can't catch any fish like that, but I already suggested you to try get closer to waterfall, remember?",
+		"SPINEL_ONE_LOOP_RESPONSE": "Yes, I know that you can't catch any fish like that, but I already suggested you to try to get closer to the waterfall, remember?",
 		"SPINEL_ONE_LOOP_DONE": "No, you just came up, what are you talking about?",
-
 		"SPINEL_TWO_LOOP_RESPONSE": "Just get closer to the waterfall as I said before...",
 		"SPINEL_TWO_LOOP_DONE": "Before?",
 		"SPINEL_TWO_LOOP_REPLY": "Nevermind.",
 
-
 		// Tephra
-
 		"TEPHRA_START_1": "Hullo! Are you going to the space today?",
 		"TEPHRA_START_2": "Yes, as planned.",
 		"TEPHRA_START_3": "Galena said that you found <![CDATA[<i>]]>Nomai cairn<![CDATA[</i>]]> for your snowian?",
 		"TEPHRA_START_4": "Awww, you mean those magic rocks? Yes, they were near those strange wires when Marl cleared out the dead geysers.",
-
-		"TEPHRA_START_4.1": "There also was a <![CDATA[<i>]]>flickering Nomai thing with blue lights<![CDATA[</i>]]> near the rocks, but it was carried away by river and we lost it!",
-		"TEPHRA_START_4.2": "Try to find it <![CDATA[<i>]]>somewhere<![CDATA[</i>]]> in river here.",
-		"TEPHRA_START_4.3": "Could you remind me about <![CDATA[<i>]]>\"flickering thing\"<![CDATA[</i>]]> you saw?",
+		"TEPHRA_START_4.1": "There also was a <![CDATA[<i>]]>flickering Nomai thing with blue lights<![CDATA[</i>]]> near the rocks, but it was carried away by the river and we lost it!",
+		"TEPHRA_START_4.2": "Try to find it <![CDATA[<i>]]>somewhere<![CDATA[</i>]]> in the river here.",
+		"TEPHRA_START_4.3": "Could you remind me about the <![CDATA[<i>]]>\"flickering thing\"<![CDATA[</i>]]> you saw?",
 		"TEPHRA_START_4.4": "Awww sure! It was carried away by the river, just before it became frozen!",
-
 		"TEPHRA_START_5.1": "Hey-hey, how is it going?",
 		"TEPHRA_START_5.1.1": "Thanks! How is it going, Tephra?",
 		"TEPHRA_START_5.2": "Good! We found magic rocks for snowian and also a <![CDATA[<i>]]>flickering Nomai thing with blue lights<![CDATA[</i>]]>!",
 		"TEPHRA_START_5.3": "A <![CDATA[<i>]]>flickering Nomai thing<![CDATA[</i>]]>? You mean a Nomai recorder?",
-		"TEPHRA_START_5.4": "Dunno. We lost it almost immidiately, it was carried awway by river to the big water wheel!",
+		"TEPHRA_START_5.4": "Dunno. We lost it almost immediately, it was carried away by the river to the big water wheel!",
 		"TEPHRA_START_5.5": "Any ideas where I can search for it?",
-
-
 		"TEPHRA_START_5": "Then we decided to make a snowian with the leftover rocks since Moraine and Arkose are \"too busy\" to play with us.",
 		"TEPHRA_START_6": "What do you mean?",
 		"TEPHRA_START_7": "They've been throwing snowballs at each other all day! You can go up there and see.",
-		"TEPHRA_START_8": "No, I mean <![CDATA[<i>]]>flickering Nomai thing<![CDATA[</i>]]> that you found with rocks. Where it could be?",
-		"TEPHRA_START_8.1": "Dunno. <![CDATA[<i>]]>Somewhere<![CDATA[</i>]]> in river maybe? You could try look near the water wheel.",
+		"TEPHRA_START_8": "No, I mean the <![CDATA[<i>]]>flickering Nomai thing<![CDATA[</i>]]> that you found with rocks. Where could it be?",
+		"TEPHRA_START_8.1": "Dunno. <![CDATA[<i>]]>Somewhere<![CDATA[</i>]]> in the river maybe? You could try to look near the water wheel.",
 		"TEPHRA_START_8.2": "Okay, I'll try to find it.",
-		"TEPHRA_START_8.3": "Thanks for reminding.",
+		"TEPHRA_START_8.3": "Thanks for reminding me.",
 		"TEPHRA_START_9": "Good luck astronaut!",
 
 		// Arkose
@@ -621,35 +598,35 @@
 		// Rutile
 		"RUTILE_START_1": "Gotta say I don't remember a time we had so much snow on Timber Hearth.",
 		"RUTILE_START_2": "Yep, me neither.",
-		"RUTILE_START_3": "I like it to be honest. The season is really bringing folks together. By the way, could you go check on Tektite? Haven't heard from them in a while.",
+		"RUTILE_START_3": "I like it to be honest. The season really brings folks together. By the way, could you go check on Tektite? Haven't heard from them in a while.",
 		"RUTILE_START_4": "They went to the crater near the Village. You can find it easily: just look for the smoke.",
 		"RUTILE_START_5": "Sure, I'll visit them. Don't miss my launch!",
-		"RUTILE_START_6": "Sure. I look forward to seeing you take-off!",
+		"RUTILE_START_6": "Sure. I look forward to seeing you take off!",
 		"RUTILE_START_7": "And please, don't blow up your ship!<![CDATA[<Pause=2>]]> Especially with your new Little Scout improvement.",
 
 		// Gneiss
 		"GNEISS_START_1": "Another traveler is leaving us for outer space! What can I do for you?",
 		"GNEISS_START_2": "I'm actually going out to bring all the travelers back home.",
-		"GNEISS_START_3": "Yep. I just wanted to say good bye first.",
-		"GNEISS_START_4": "Oh really? That's so nice! Finally our orchestra will be playing at full strength!",
+		"GNEISS_START_3": "Yep. I just wanted to say goodbye first.",
+		"GNEISS_START_4": "Oh really? That's so nice! Finally, our orchestra will be playing at full strength!",
 		"GNEISS_START_5": "It will!",
 		"GNEISS_START_6": "Alright, hatchling! Take care of yourself up in space!",
 		"GNEISS_START_7": "Please, take care of yourself up in space!",
 
 		// Tuff (cave)
 		"TUFF_START_1": "Hey there! Shouldn't you have lifted off already?",
-		"TUFF_START_2": "Yeah. On my way. Actually Gossan asked me to get you to come back up to the surface and...",
+		"TUFF_START_2": "Yeah. On my way. Actually, Gossan asked me to get you back up to the surface and...",
 		"TUFF_START_3": "So, what's going on up there?",
-		"TUFF_START_4": "Gossan asked me to get you to come back up to the surface and...",
+		"TUFF_START_4": "Gossan asked me to get you back up to the surface and...",
 		"TUFF_START_5": "Me? Going back to the surface?!",
 		"TUFF_START_6": "Finally! See ya around!",
 
 		// Tuff tree
-		"TUFF_TREE_1": "I am so sorry about that accident!<![CDATA[<Pause=2>]]> I was too happy that I'm getting out of that cave that I forgot about you.<![CDATA[<Pause=2>]]>.<![CDATA[<Pause=2>]]>.<![CDATA[<Pause=2>]]>",
+		"TUFF_TREE_1": "I am so sorry about that accident!<![CDATA[<Pause=2>]]> I was so happy that I'm getting out of that cave that I forgot about you.<![CDATA[<Pause=2>]]>.<![CDATA[<Pause=2>]]>.<![CDATA[<Pause=2>]]>",
 		"TUFF_TREE_2": "No worries. I'm okay.",
 		"TUFF_TREE_3": "You sure? Alright then.",
 		"TUFF_TREE_4": "I'm still so sorry!",
-		"TUFF_TREE_5": "It would be a terrible fate to stuck in that cave.",
+		"TUFF_TREE_5": "It would be a terrible fate to be stuck in that cave.",
 
 		// Mica
 		"MICA_START_1": "Oh, hey! It's you!",
@@ -657,25 +634,23 @@
 		"MICA_START_3": "Do you want to practice with the model ship before you leave?",
 
 		// ADD THIS STRING 
-
 		"MICA_START_3.1": "Sure!",
-
 
 		"MICA_START_4": "No, thanks, I'm good.",
 		"MICA_START_5": "Hey, did you change your mind and come back to try out the model ship?",
 		"MICA_START_6": "Yes, I have changed my mind.",
-		"MICA_START_7": "Nice! Listen, since my boot's are... <![CDATA[<i>]]>not made for snow<![CDATA[</i>]]>, I can't go down and play with others...",
+		"MICA_START_7": "Nice! Listen, since my boots are... <![CDATA[<i>]]>not made for snow<![CDATA[</i>]]>, I can't go down and play with others...",
 		"MICA_START_8": "They've been having snowball fights and even made a snowian!!! Let's crash the model ship into it, that would be fun!",
 		"MICA_START_9": "I've tried already. It's indestructible!",
 		"MICA_START_10": "Alright, I'll do this.",
-		"MICA_START_11": "I don't think we should do that Mica.",
+		"MICA_START_11": "I don't think we should do that, Mica.",
 		"MICA_START_12": "Meh meh meh... don't worry! Just try it and you'll see that it's not a regular snowian, I swear!",
 		"MICA_START_13": "It will be fun, ha-ha! The snowian is on the left of the Christmas tree.",
 		"MICA_START_14": "Well... at least you tried!",
 		"MICA_START_15": "You didn't tell me it was indestructible.",
 		"MICA_START_16": "Yeah... I gotta go.",
 		"MICA_START_17": "That's okay. You can come back and give it another try anytime.",
-		"MICA_START_18": "Good luck in your flight!",
+		"MICA_START_18": "Good luck with your flight!",
 		"MICA_START_19": "Ha-ha! Yes, I think Tephra and Galena did something special with it.",
 		"MICA_START_20": "Take this <![CDATA[<color=lightblue>little snowian</color>]]> as a consolation prize for your efforts. I'll put it in the cockpit of your ship.",
 		"MICA_START_21": "I'll keep my trying to destroy it anyway. You won't last long, snowian!",
@@ -698,10 +673,8 @@
 
 		// Solanum response
 		"SOLANUM_WALL_1": "SOLANUM: This encounter feels <![CDATA[<i>]]>VERY special<![CDATA[</i>]]>.",
-		"SOLANUM_WALL_2": "SOLANUM: I am not sure of the outcome, but allow us try this: Take the stone that looks like my mask to the place where I am needed.",
+		"SOLANUM_WALL_2": "SOLANUM: I am not sure of the outcome, but allow us to try this: Take the stone that looks like my mask to the place where I am needed.",
 		"SOLANUM_WALL_3": "SOLANUM: With that done, I will do my best. Farewell.",
-
-
 
 		// Solanum start
 		"SOLANUM_START_1": "...",
@@ -720,11 +693,11 @@
 		"RECORDER_1": "OENO: Coleus, could you remind me what the idea you are working on is exactly?",
 		"RECORDER_2": "COLEUS: Yes, of course. Imagine the Sun Station works as intended, why shouldn't we have a remote location to monitor it and the <![CDATA[<color=orange>Ash Twin Project</color>]]> from?",
 		"RECORDER_3": "OENO: I see what you mean. Only a select number of Nomai would fit within the core of Ash Twin to monitor the project, and we have a limited number of statues to link with. I believe the <![CDATA[<color=orange>Timber Hearth</color>]]> mines could serve as a secondary safe location.",
-		"RECORDER_4": "COLEUS: Exactly. If my hypothesis is correct, these wires will be capable of transmiting the memories of multiple individuals to and from the <![CDATA[<color=orange>Ash Twin Project</color>]]> in a limited capacity compared to the statues. I believe that the data transmission <![CDATA[<i>]]>will only be affective within a radius of 10 to 20 meters to the device.<![CDATA[</i>]]>",
+		"RECORDER_4": "COLEUS: Exactly. If my hypothesis is correct, these wires will be capable of transmitting the memories of multiple individuals to and from the <![CDATA[<color=orange>Ash Twin Project</color>]]> at a limited capacity compared to the statues. I believe that the data transmission <![CDATA[<i>]]>will only be effective within a radius of 10 to 20 meters of the device.<![CDATA[</i>]]>",
 		"RECORDER_5": "YARROW: We don't have the time or resources for additional experiments, Coleus. We will only be able to tell for sure if it has worked after the <![CDATA[<color=orange>Ash Twin Project</color>]]> has already succeeded. Please don't waste any of your time on it right now.",
-		"RECORDER_6": "COLEUS: You're probably right. <![CDATA[<i>]]>We should focus more on our main mission.<![CDATA[</i>]]> There will be plenty of time for me to improve this technology after the <![CDATA[<color=orange>Ash Twin Project</color>]]> has completed it's mission.",
+		"RECORDER_6": "COLEUS: You're probably right. <![CDATA[<i>]]>We should focus more on our main mission.<![CDATA[</i>]]> There will be plenty of time for me to improve this technology after the <![CDATA[<color=orange>Ash Twin Project</color>]]> has completed its mission.",
 
-		"HAL_STONE_TEXT": "<![CDATA[<size=50>]]><![CDATA[<color=red>ERROR:</color>]]>Dear SoLaNum_, I|m invI_tinG youUu to \n T!mBerHeartH Vill@ge to celLebrAte Christmas!!!.<![CDATA[</size>]]>",
+		"HAL_STONE_TEXT": "<![CDATA[<size=50>]]><![CDATA[<color=red>ERROR:</color>]]> Dear SoLaNum_, I|m invI_tinG youUu to \n T!mBerHeartH Vill@ge to celLebrAte Christmas!!!.<![CDATA[</size>]]>",
 
 		/*
 		"_START_1": "",
@@ -760,20 +733,20 @@
 	*/
 
 		// TRAVELERS SECOND LOOP AT THE TREE -> Aware of time loop!
-		"CHERT_ONE_LOOP_START": "Seems you were right after all about the time loop. The sun exploded and I found myself here again at the tree.",
+		"CHERT_ONE_LOOP_START": "Seems you were right after all about the time loop. The sun exploded and I found myself here again near the tree.",
 		"CHERT_ONE_LOOP_RESPONSE": "I told you!",
 		"CHERT_ONE_LOOP_DONE": "You did. What a unique opportunity to study a supernova up close! But why am I only aware of it now? It's quite strange.",
 
 		"ESKER_ONE_LOOP_START": "Merry Christmas hatchling!",
-		"ESKER_ONE_LOOP_RESPONSE": "Hey Esker, you notice anything out of the ordinary?",
+		"ESKER_ONE_LOOP_RESPONSE": "Hey Esker, did you notice anything out of the ordinary?",
 		"ESKER_ONE_LOOP_DONE": "No, why? Sorry, I've been too busy talking to the other villagers to pay attention to anything else!",
 
 		"FELDSPAR_ONE_LOOP_START": "What was that big flash in the sky earlier? Seems like a call to adventure.",
 		"FELDSPAR_ONE_LOOP_RESPONSE": "Don't worry about it. We can deal with that after Christmas.",
-		"FELDSPAR_ONE_LOOP_DONE": "Yes you're right, there will always be more time, right?",
+		"FELDSPAR_ONE_LOOP_DONE": "Yes, you're right, there will always be more time, right?",
 
 		"RIEBECK_ONE_LOOP_START": "DID THE SUN EXPLODE? WHAT WAS THAT!",
-		"RIEBECK_ONE_LOOP_RESPONSE": "Yes it did, but try not to worry about it, we're safe here.",
+		"RIEBECK_ONE_LOOP_RESPONSE": "Yes, it did, but try not to worry about it, we're safe here.",
 		"RIEBECK_ONE_LOOP_DONE": "I find that hard to believe! But if the sun exploded and we're still alive then I guess you're right. I think.",
 
 		"Chert": "Chert",
@@ -800,14 +773,10 @@
 		"Tuff": "Tuff",
 		"Mica": "Mica",
 		"Solanum": "Solanum"
-
-
-
 	},
 
 	"UIDictionary": {
-
-		"MOD_POPUP": "Thanks for installing Christmas Story! This mod contains major spoilers for classic Outer Wilds and the DLC! We recommend for you to create a new profile for a better experience.",
+		"MOD_POPUP": "Thanks for installing Christmas Story! This mod contains major spoilers for classic Outer Wilds and the DLC! We recommend you create a new profile for a better experience.",
 		"ENDING_TEXT_5": "THE END \n \n 5/8 travelers done",
 		"ENDING_TEXT_6": "THE END \n \n 6/8 travelers done",
 		"ENDING_TEXT_7": "THE END \n \n 7/8 travelers done",
@@ -817,10 +786,7 @@
 		"SHIP_TOY_PROMT": "Manage your dashboard toys",
 		"SHIP_TOY_NOTIFICATION": "NEW SHIP TOY ADDED",
 		"INVITE_STONE_ITEM": "<![CDATA[<color=orange>Hal's</color>]]> Invite Stone"
-
 	},
-	"ShipLogDictionary": {
 
-	}
-
+	"ShipLogDictionary": {}
 }
